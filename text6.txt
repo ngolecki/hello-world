@@ -1,4 +1,6 @@
 And more
+--- new line
 more and more
 compare time
 another line
+....
