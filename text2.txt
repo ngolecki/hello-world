@@ -5,3 +5,4 @@ second file.
 ...
 bbbb
 remote change
+local change
