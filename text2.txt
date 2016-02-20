@@ -2,9 +2,16 @@ second file.
 remote
 <h1>title</h1>
 ...
+## new line in the middle
+## and more
 ...
 bbbb
 remote change
 local change
 
 more local change
+
+## here is something at the end
+## dfdsf
+## ds dsfdssfdnfds nkjdnjfnd kfndsjf dsdsf
+## io3hiufhudis
