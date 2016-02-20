@@ -1,3 +1,5 @@
+++ line1
+++ line2
 second file.
 remote
 <h1>title</h1>
@@ -8,3 +10,5 @@ remote change
 local change
 
 more local change
+++ line3
+++ line4
