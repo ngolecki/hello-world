@@ -2,5 +2,10 @@ hello
 this is feature FEAT-1
 
 and more ...
+<<<<<<< HEAD
 local change
 and more changes
+=======
+
+changed online
+>>>>>>> origin/master
