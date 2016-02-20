@@ -3,3 +3,4 @@ this is feature FEAT-1
 
 and more ...
 local change
+and more changes
